@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經述註
-#+DATE: 2015-09-23 09:40:48
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:18:11.439223
+#+PROPERTY: ID KR1f0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 孝經述註
 <pb:KR1f0009_WYG_001-1a>¶
 欽定四庫全書¶
 　孝經述註　　　　　　　明　項霦　撰¶
@@ -383,4 +385,3 @@
 <pb:KR1f0009_WYG_001-22a>¶
 　　　以悟道心純一貫通之神妙何啻親炙聖人而¶
 　　　傳道統也歟¶
-
